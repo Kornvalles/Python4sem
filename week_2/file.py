@@ -21,14 +21,11 @@ def write_list_to_file(output_file, lst):
 write_list_to_file(output_file, tuplelist)
 
 # a
-strings = "haha, hvordan, gaar, det"
-
-def write_list_to_file_strings(output_file, lst):
+def write_list_to_file_strings(output_file, *strings):
     with open(output_file, 'w') as file_obj:
-        for word in lst.split(","):
-            file_obj.write(word + "\n")
-
-write_list_to_file_strings(output_file, strings)
+        for string in strings:
+            file_obj.write(string + "\n")
+write_list_to_file_strings(output_file, "hey", "hvordan", "gaar", "det", "idag?")
 
 # C
 def read_csv(input_file):
