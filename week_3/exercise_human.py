@@ -1,7 +1,9 @@
 import string
 
+
 class InvalidArgumentException(Exception):
     pass
+
 
 class Person():
 
@@ -15,5 +17,6 @@ class Person():
             else:
                 raise InvalidArgumentException("Invalid argument!")
 
-p = Person('Æikkel')
+
+p = Person('Mi?kkel')
 print(p.check_name())
