@@ -1,32 +1,41 @@
 # 2
 import sys
 import getopt
+import logging
+from urllib.parse import urlparse
+
+log_fmt = '%(asctime)s - %(levelname)s - %(message)s'
+logging.basicConfig(level=logging.DEBUG, format=log_fmt)
 
 def check_args(arguments):
     # This is to be implemented in your programs...
     return True
 
+def usage():
+    return 'Usage : CLI.py –f <filename> or CLI.py --file_name <filename>'
+
 def run(arguments):
-    try:
-        opts, args = getopt.getopt(arguments, "o:", ["file"])
-    except getopt.GetoptError as err:
-        # print help information and exit:
-        print(err)  # will print something like "option -a not recognized"
-        sys.exit(2)
 
-    output = None
-    file_name = None
-    for option, argument in opts:
-        print(option)
-        if option in ("-f","--file"):
-            file_name = argument
-        elif option in ("-o", "--output"):
-            output = argument
+    if check_args(arguments):
+        opts, args = getopt.getopt(arguments, "f:h", ["file_name="])
+
+        if opts:
+            for option, argument in opts:
+                if option in ("-h", "--help"):
+                    print(usage())
+                elif option in ("-f", "--file_name"):
+                    with open(argument, "w") as f_obj:
+                        with open(args[0]) as read_obj:
+                            f_obj.write(read_obj.read())
+                else:
+                    print("Unknown syntax")
         else:
-            assert False, "unhandled option"
+            with open(args[0]) as f_obj:
+                content = f_obj.readlines()
+                for line in content[:len(content)-1]:
+                    print(line.strip().split(','))
 
-    print(output)
-    print(file_name)
+
 
 if __name__ == '__main__':
     # Call me from the CLI for example with:
