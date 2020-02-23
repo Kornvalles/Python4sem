@@ -4,9 +4,6 @@ import getopt
 import logging
 from urllib.parse import urlparse
 
-log_fmt = '%(asctime)s - %(levelname)s - %(message)s'
-logging.basicConfig(level=logging.DEBUG, format=log_fmt)
-
 def check_args(arguments):
     # This is to be implemented in your programs...
     return True
