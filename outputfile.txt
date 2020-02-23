@@ -1,1 +1,3 @@
-test
+test af denne function
+hej med dig@
+google@gmail.com
