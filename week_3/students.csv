@@ -1,840 +1,100 @@
-stud_name: Sofia, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img0.jpg
-stud_name: Sofia, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img0.jpg
-stud_name: Sofia, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img0.jpg
-stud_name: Sofia, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img0.jpg
-stud_name: Alan, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img1.jpg
-stud_name: Alan, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img1.jpg
-stud_name: Alan, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img1.jpg
-stud_name: Alan, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img1.jpg
-stud_name: Alan, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img1.jpg
-stud_name: Alan, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img1.jpg
-stud_name: Alan, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img1.jpg
-stud_name: Alan, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img1.jpg
-stud_name: Roger, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img2.jpg
-stud_name: Roger, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img2.jpg
-stud_name: Roger, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img2.jpg
-stud_name: Roger, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img2.jpg
-stud_name: Roger, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img2.jpg
-stud_name: Roger, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img2.jpg
-stud_name: Roger, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img2.jpg
-stud_name: Roger, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img2.jpg
-stud_name: Roger, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img2.jpg
-stud_name: Roger, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img2.jpg
-stud_name: Roger, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img2.jpg
-stud_name: Roger, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img2.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img3.jpg
-stud_name: Steve, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img3.jpg
-stud_name: Steve, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img3.jpg
-stud_name: Steve, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img3.jpg
-stud_name: Steve, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img3.jpg
-stud_name: Steve, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img3.jpg
-stud_name: Steve, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img3.jpg
-stud_name: Steve, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img3.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img3.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img3.jpg
-stud_name: Steve, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img3.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img3.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img3.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img3.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img3.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img3.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img4.jpg
-stud_name: Taylor, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img4.jpg
-stud_name: Taylor, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img4.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img4.jpg
-stud_name: Taylor, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img4.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img4.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img4.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img4.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img4.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img4.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img4.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img4.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img4.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img4.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img4.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img4.jpg
-stud_name: Taylor, course_name: Geology, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img4.jpg
-stud_name: Taylor, course_name: English, teacher: Martin, ects: 40, classroom: 405, grade: Fx, img_url: img4.jpg
-stud_name: Taylor, course_name: Geology, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img4.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img4.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img5.jpg
-stud_name: Michael, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img5.jpg
-stud_name: Michael, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img5.jpg
-stud_name: Michael, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img5.jpg
-stud_name: Michael, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img5.jpg
-stud_name: Michael, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img5.jpg
-stud_name: Michael, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img5.jpg
-stud_name: Michael, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img5.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img5.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img5.jpg
-stud_name: Michael, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img5.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img5.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img5.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img5.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img5.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img5.jpg
-stud_name: Michael, course_name: Geology, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img5.jpg
-stud_name: Michael, course_name: English, teacher: Martin, ects: 40, classroom: 405, grade: Fx, img_url: img5.jpg
-stud_name: Michael, course_name: Geology, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img5.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img5.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 407, grade: F, img_url: img5.jpg
-stud_name: Michael, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: E, img_url: img5.jpg
-stud_name: Michael, course_name: Science, teacher: Tom, ects: 40, classroom: 406, grade: A, img_url: img5.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img5.jpg
-stud_name: Michelle, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img6.jpg
-stud_name: Michelle, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img6.jpg
-stud_name: Michelle, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img6.jpg
-stud_name: Michelle, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img6.jpg
-stud_name: Michelle, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img6.jpg
-stud_name: Michelle, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img6.jpg
-stud_name: Michelle, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img6.jpg
-stud_name: Michelle, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img6.jpg
-stud_name: Michelle, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img6.jpg
-stud_name: Michelle, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img6.jpg
-stud_name: Michelle, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img6.jpg
-stud_name: Michelle, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img6.jpg
-stud_name: Michelle, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img6.jpg
-stud_name: Michelle, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img6.jpg
-stud_name: Michelle, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img6.jpg
-stud_name: Michelle, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img6.jpg
-stud_name: Michelle, course_name: Geology, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img6.jpg
-stud_name: Michelle, course_name: English, teacher: Martin, ects: 40, classroom: 405, grade: Fx, img_url: img6.jpg
-stud_name: Michelle, course_name: Geology, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img6.jpg
-stud_name: Michelle, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img6.jpg
-stud_name: Michelle, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 407, grade: F, img_url: img6.jpg
-stud_name: Michelle, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: E, img_url: img6.jpg
-stud_name: Michelle, course_name: Science, teacher: Tom, ects: 40, classroom: 406, grade: A, img_url: img6.jpg
-stud_name: Michelle, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img6.jpg
-stud_name: Michelle, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 403, grade: E, img_url: img6.jpg
-stud_name: Michelle, course_name: Science, teacher: Susan, ects: 60, classroom: 407, grade: A, img_url: img6.jpg
-stud_name: Michelle, course_name: Science, teacher: Nick, ects: 20, classroom: 402, grade: C, img_url: img6.jpg
-stud_name: Michelle, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 405, grade: F, img_url: img6.jpg
-stud_name: Sofia, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img7.jpg
-stud_name: Sofia, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img7.jpg
-stud_name: Sofia, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img7.jpg
-stud_name: Sofia, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img7.jpg
-stud_name: Sofia, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img7.jpg
-stud_name: Sofia, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img7.jpg
-stud_name: Sofia, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img7.jpg
-stud_name: Sofia, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img7.jpg
-stud_name: Sofia, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img7.jpg
-stud_name: Sofia, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img7.jpg
-stud_name: Sofia, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img7.jpg
-stud_name: Sofia, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img7.jpg
-stud_name: Sofia, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img7.jpg
-stud_name: Sofia, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img7.jpg
-stud_name: Sofia, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img7.jpg
-stud_name: Sofia, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img7.jpg
-stud_name: Sofia, course_name: Geology, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img7.jpg
-stud_name: Sofia, course_name: English, teacher: Martin, ects: 40, classroom: 405, grade: Fx, img_url: img7.jpg
-stud_name: Sofia, course_name: Geology, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img7.jpg
-stud_name: Sofia, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img7.jpg
-stud_name: Sofia, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 407, grade: F, img_url: img7.jpg
-stud_name: Sofia, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: E, img_url: img7.jpg
-stud_name: Sofia, course_name: Science, teacher: Tom, ects: 40, classroom: 406, grade: A, img_url: img7.jpg
-stud_name: Sofia, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img7.jpg
-stud_name: Sofia, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 403, grade: E, img_url: img7.jpg
-stud_name: Sofia, course_name: Science, teacher: Susan, ects: 60, classroom: 407, grade: A, img_url: img7.jpg
-stud_name: Sofia, course_name: Science, teacher: Nick, ects: 20, classroom: 402, grade: C, img_url: img7.jpg
-stud_name: Sofia, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 405, grade: F, img_url: img7.jpg
-stud_name: Sofia, course_name: English, teacher: Isabel, ects: 20, classroom: 408, grade: Fx, img_url: img7.jpg
-stud_name: Sofia, course_name: History, teacher: Susan, ects: 20, classroom: 407, grade: E, img_url: img7.jpg
-stud_name: Sofia, course_name: Psychology, teacher: Isabel, ects: 60, classroom: 405, grade: B, img_url: img7.jpg
-stud_name: Sofia, course_name: Chemistry, teacher: Jef, ects: 60, classroom: 401, grade: A, img_url: img7.jpg
-stud_name: Brie, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img8.jpg
-stud_name: Brie, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img8.jpg
-stud_name: Brie, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img8.jpg
-stud_name: Brie, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img8.jpg
-stud_name: Brie, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img8.jpg
-stud_name: Brie, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img8.jpg
-stud_name: Brie, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img8.jpg
-stud_name: Brie, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img8.jpg
-stud_name: Brie, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img8.jpg
-stud_name: Brie, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img8.jpg
-stud_name: Brie, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img8.jpg
-stud_name: Brie, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img8.jpg
-stud_name: Brie, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img8.jpg
-stud_name: Brie, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img8.jpg
-stud_name: Brie, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img8.jpg
-stud_name: Brie, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img8.jpg
-stud_name: Brie, course_name: Geology, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img8.jpg
-stud_name: Brie, course_name: English, teacher: Martin, ects: 40, classroom: 405, grade: Fx, img_url: img8.jpg
-stud_name: Brie, course_name: Geology, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img8.jpg
-stud_name: Brie, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img8.jpg
-stud_name: Brie, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 407, grade: F, img_url: img8.jpg
-stud_name: Brie, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: E, img_url: img8.jpg
-stud_name: Brie, course_name: Science, teacher: Tom, ects: 40, classroom: 406, grade: A, img_url: img8.jpg
-stud_name: Brie, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img8.jpg
-stud_name: Brie, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 403, grade: E, img_url: img8.jpg
-stud_name: Brie, course_name: Science, teacher: Susan, ects: 60, classroom: 407, grade: A, img_url: img8.jpg
-stud_name: Brie, course_name: Science, teacher: Nick, ects: 20, classroom: 402, grade: C, img_url: img8.jpg
-stud_name: Brie, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 405, grade: F, img_url: img8.jpg
-stud_name: Brie, course_name: English, teacher: Isabel, ects: 20, classroom: 408, grade: Fx, img_url: img8.jpg
-stud_name: Brie, course_name: History, teacher: Susan, ects: 20, classroom: 407, grade: E, img_url: img8.jpg
-stud_name: Brie, course_name: Psychology, teacher: Isabel, ects: 60, classroom: 405, grade: B, img_url: img8.jpg
-stud_name: Brie, course_name: Chemistry, teacher: Jef, ects: 60, classroom: 401, grade: A, img_url: img8.jpg
-stud_name: Brie, course_name: Mathematics, teacher: Jef, ects: 40, classroom: 405, grade: F, img_url: img8.jpg
-stud_name: Brie, course_name: Art & Design, teacher: Iris, ects: 60, classroom: 403, grade: Fx, img_url: img8.jpg
-stud_name: Brie, course_name: Science, teacher: Susan, ects: 20, classroom: 401, grade: Fx, img_url: img8.jpg
-stud_name: Brie, course_name: Psychology, teacher: Jef, ects: 20, classroom: 408, grade: E, img_url: img8.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img9.jpg
-stud_name: Steve, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img9.jpg
-stud_name: Steve, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img9.jpg
-stud_name: Steve, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img9.jpg
-stud_name: Steve, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img9.jpg
-stud_name: Steve, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img9.jpg
-stud_name: Steve, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img9.jpg
-stud_name: Steve, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img9.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img9.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img9.jpg
-stud_name: Steve, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img9.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img9.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img9.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img9.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img9.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img9.jpg
-stud_name: Steve, course_name: Geology, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img9.jpg
-stud_name: Steve, course_name: English, teacher: Martin, ects: 40, classroom: 405, grade: Fx, img_url: img9.jpg
-stud_name: Steve, course_name: Geology, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img9.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img9.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 407, grade: F, img_url: img9.jpg
-stud_name: Steve, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: E, img_url: img9.jpg
-stud_name: Steve, course_name: Science, teacher: Tom, ects: 40, classroom: 406, grade: A, img_url: img9.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img9.jpg
-stud_name: Steve, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 403, grade: E, img_url: img9.jpg
-stud_name: Steve, course_name: Science, teacher: Susan, ects: 60, classroom: 407, grade: A, img_url: img9.jpg
-stud_name: Steve, course_name: Science, teacher: Nick, ects: 20, classroom: 402, grade: C, img_url: img9.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 405, grade: F, img_url: img9.jpg
-stud_name: Steve, course_name: English, teacher: Isabel, ects: 20, classroom: 408, grade: Fx, img_url: img9.jpg
-stud_name: Steve, course_name: History, teacher: Susan, ects: 20, classroom: 407, grade: E, img_url: img9.jpg
-stud_name: Steve, course_name: Psychology, teacher: Isabel, ects: 60, classroom: 405, grade: B, img_url: img9.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Jef, ects: 60, classroom: 401, grade: A, img_url: img9.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Jef, ects: 40, classroom: 405, grade: F, img_url: img9.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Iris, ects: 60, classroom: 403, grade: Fx, img_url: img9.jpg
-stud_name: Steve, course_name: Science, teacher: Susan, ects: 20, classroom: 401, grade: Fx, img_url: img9.jpg
-stud_name: Steve, course_name: Psychology, teacher: Jef, ects: 20, classroom: 408, grade: E, img_url: img9.jpg
-stud_name: Steve, course_name: Psychology, teacher: Isabel, ects: 20, classroom: 407, grade: Fx, img_url: img9.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 408, grade: B, img_url: img9.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Kathrin, ects: 20, classroom: 403, grade: E, img_url: img9.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Kathrin, ects: 40, classroom: 408, grade: B, img_url: img9.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img10.jpg
-stud_name: Taylor, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img10.jpg
-stud_name: Taylor, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img10.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img10.jpg
-stud_name: Taylor, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img10.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img10.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img10.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img10.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img10.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img10.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img10.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img10.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img10.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img10.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img10.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img10.jpg
-stud_name: Taylor, course_name: Geology, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img10.jpg
-stud_name: Taylor, course_name: English, teacher: Martin, ects: 40, classroom: 405, grade: Fx, img_url: img10.jpg
-stud_name: Taylor, course_name: Geology, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img10.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img10.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 407, grade: F, img_url: img10.jpg
-stud_name: Taylor, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: E, img_url: img10.jpg
-stud_name: Taylor, course_name: Science, teacher: Tom, ects: 40, classroom: 406, grade: A, img_url: img10.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img10.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 403, grade: E, img_url: img10.jpg
-stud_name: Taylor, course_name: Science, teacher: Susan, ects: 60, classroom: 407, grade: A, img_url: img10.jpg
-stud_name: Taylor, course_name: Science, teacher: Nick, ects: 20, classroom: 402, grade: C, img_url: img10.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 405, grade: F, img_url: img10.jpg
-stud_name: Taylor, course_name: English, teacher: Isabel, ects: 20, classroom: 408, grade: Fx, img_url: img10.jpg
-stud_name: Taylor, course_name: History, teacher: Susan, ects: 20, classroom: 407, grade: E, img_url: img10.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Isabel, ects: 60, classroom: 405, grade: B, img_url: img10.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Jef, ects: 60, classroom: 401, grade: A, img_url: img10.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Jef, ects: 40, classroom: 405, grade: F, img_url: img10.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Iris, ects: 60, classroom: 403, grade: Fx, img_url: img10.jpg
-stud_name: Taylor, course_name: Science, teacher: Susan, ects: 20, classroom: 401, grade: Fx, img_url: img10.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Jef, ects: 20, classroom: 408, grade: E, img_url: img10.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Isabel, ects: 20, classroom: 407, grade: Fx, img_url: img10.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 408, grade: B, img_url: img10.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Kathrin, ects: 20, classroom: 403, grade: E, img_url: img10.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Kathrin, ects: 40, classroom: 408, grade: B, img_url: img10.jpg
-stud_name: Taylor, course_name: History, teacher: Tom, ects: 40, classroom: 401, grade: F, img_url: img10.jpg
-stud_name: Taylor, course_name: English, teacher: Kathrin, ects: 20, classroom: 404, grade: A, img_url: img10.jpg
-stud_name: Taylor, course_name: Science, teacher: Kathrin, ects: 20, classroom: 406, grade: C, img_url: img10.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Kathrin, ects: 60, classroom: 401, grade: A, img_url: img10.jpg
-stud_name: Dwayne, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img11.jpg
-stud_name: Dwayne, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img11.jpg
-stud_name: Dwayne, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img11.jpg
-stud_name: Dwayne, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img11.jpg
-stud_name: Dwayne, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img11.jpg
-stud_name: Dwayne, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img11.jpg
-stud_name: Dwayne, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img11.jpg
-stud_name: Dwayne, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img11.jpg
-stud_name: Dwayne, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img11.jpg
-stud_name: Dwayne, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img11.jpg
-stud_name: Dwayne, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img11.jpg
-stud_name: Dwayne, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img11.jpg
-stud_name: Dwayne, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img11.jpg
-stud_name: Dwayne, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img11.jpg
-stud_name: Dwayne, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img11.jpg
-stud_name: Dwayne, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img11.jpg
-stud_name: Dwayne, course_name: Geology, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img11.jpg
-stud_name: Dwayne, course_name: English, teacher: Martin, ects: 40, classroom: 405, grade: Fx, img_url: img11.jpg
-stud_name: Dwayne, course_name: Geology, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img11.jpg
-stud_name: Dwayne, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img11.jpg
-stud_name: Dwayne, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 407, grade: F, img_url: img11.jpg
-stud_name: Dwayne, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: E, img_url: img11.jpg
-stud_name: Dwayne, course_name: Science, teacher: Tom, ects: 40, classroom: 406, grade: A, img_url: img11.jpg
-stud_name: Dwayne, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img11.jpg
-stud_name: Dwayne, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 403, grade: E, img_url: img11.jpg
-stud_name: Dwayne, course_name: Science, teacher: Susan, ects: 60, classroom: 407, grade: A, img_url: img11.jpg
-stud_name: Dwayne, course_name: Science, teacher: Nick, ects: 20, classroom: 402, grade: C, img_url: img11.jpg
-stud_name: Dwayne, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 405, grade: F, img_url: img11.jpg
-stud_name: Dwayne, course_name: English, teacher: Isabel, ects: 20, classroom: 408, grade: Fx, img_url: img11.jpg
-stud_name: Dwayne, course_name: History, teacher: Susan, ects: 20, classroom: 407, grade: E, img_url: img11.jpg
-stud_name: Dwayne, course_name: Psychology, teacher: Isabel, ects: 60, classroom: 405, grade: B, img_url: img11.jpg
-stud_name: Dwayne, course_name: Chemistry, teacher: Jef, ects: 60, classroom: 401, grade: A, img_url: img11.jpg
-stud_name: Dwayne, course_name: Mathematics, teacher: Jef, ects: 40, classroom: 405, grade: F, img_url: img11.jpg
-stud_name: Dwayne, course_name: Art & Design, teacher: Iris, ects: 60, classroom: 403, grade: Fx, img_url: img11.jpg
-stud_name: Dwayne, course_name: Science, teacher: Susan, ects: 20, classroom: 401, grade: Fx, img_url: img11.jpg
-stud_name: Dwayne, course_name: Psychology, teacher: Jef, ects: 20, classroom: 408, grade: E, img_url: img11.jpg
-stud_name: Dwayne, course_name: Psychology, teacher: Isabel, ects: 20, classroom: 407, grade: Fx, img_url: img11.jpg
-stud_name: Dwayne, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 408, grade: B, img_url: img11.jpg
-stud_name: Dwayne, course_name: Mathematics, teacher: Kathrin, ects: 20, classroom: 403, grade: E, img_url: img11.jpg
-stud_name: Dwayne, course_name: Chemistry, teacher: Kathrin, ects: 40, classroom: 408, grade: B, img_url: img11.jpg
-stud_name: Dwayne, course_name: History, teacher: Tom, ects: 40, classroom: 401, grade: F, img_url: img11.jpg
-stud_name: Dwayne, course_name: English, teacher: Kathrin, ects: 20, classroom: 404, grade: A, img_url: img11.jpg
-stud_name: Dwayne, course_name: Science, teacher: Kathrin, ects: 20, classroom: 406, grade: C, img_url: img11.jpg
-stud_name: Dwayne, course_name: Art & Design, teacher: Kathrin, ects: 60, classroom: 401, grade: A, img_url: img11.jpg
-stud_name: Dwayne, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 404, grade: Fx, img_url: img11.jpg
-stud_name: Dwayne, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 403, grade: F, img_url: img11.jpg
-stud_name: Dwayne, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img11.jpg
-stud_name: Dwayne, course_name: Geology, teacher: Nick, ects: 60, classroom: 402, grade: B, img_url: img11.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img12.jpg
-stud_name: Steve, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img12.jpg
-stud_name: Steve, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img12.jpg
-stud_name: Steve, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img12.jpg
-stud_name: Steve, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img12.jpg
-stud_name: Steve, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img12.jpg
-stud_name: Steve, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img12.jpg
-stud_name: Steve, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img12.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img12.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img12.jpg
-stud_name: Steve, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img12.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img12.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img12.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img12.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img12.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img12.jpg
-stud_name: Steve, course_name: Geology, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img12.jpg
-stud_name: Steve, course_name: English, teacher: Martin, ects: 40, classroom: 405, grade: Fx, img_url: img12.jpg
-stud_name: Steve, course_name: Geology, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img12.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img12.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 407, grade: F, img_url: img12.jpg
-stud_name: Steve, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: E, img_url: img12.jpg
-stud_name: Steve, course_name: Science, teacher: Tom, ects: 40, classroom: 406, grade: A, img_url: img12.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img12.jpg
-stud_name: Steve, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 403, grade: E, img_url: img12.jpg
-stud_name: Steve, course_name: Science, teacher: Susan, ects: 60, classroom: 407, grade: A, img_url: img12.jpg
-stud_name: Steve, course_name: Science, teacher: Nick, ects: 20, classroom: 402, grade: C, img_url: img12.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 405, grade: F, img_url: img12.jpg
-stud_name: Steve, course_name: English, teacher: Isabel, ects: 20, classroom: 408, grade: Fx, img_url: img12.jpg
-stud_name: Steve, course_name: History, teacher: Susan, ects: 20, classroom: 407, grade: E, img_url: img12.jpg
-stud_name: Steve, course_name: Psychology, teacher: Isabel, ects: 60, classroom: 405, grade: B, img_url: img12.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Jef, ects: 60, classroom: 401, grade: A, img_url: img12.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Jef, ects: 40, classroom: 405, grade: F, img_url: img12.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Iris, ects: 60, classroom: 403, grade: Fx, img_url: img12.jpg
-stud_name: Steve, course_name: Science, teacher: Susan, ects: 20, classroom: 401, grade: Fx, img_url: img12.jpg
-stud_name: Steve, course_name: Psychology, teacher: Jef, ects: 20, classroom: 408, grade: E, img_url: img12.jpg
-stud_name: Steve, course_name: Psychology, teacher: Isabel, ects: 20, classroom: 407, grade: Fx, img_url: img12.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 408, grade: B, img_url: img12.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Kathrin, ects: 20, classroom: 403, grade: E, img_url: img12.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Kathrin, ects: 40, classroom: 408, grade: B, img_url: img12.jpg
-stud_name: Steve, course_name: History, teacher: Tom, ects: 40, classroom: 401, grade: F, img_url: img12.jpg
-stud_name: Steve, course_name: English, teacher: Kathrin, ects: 20, classroom: 404, grade: A, img_url: img12.jpg
-stud_name: Steve, course_name: Science, teacher: Kathrin, ects: 20, classroom: 406, grade: C, img_url: img12.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Kathrin, ects: 60, classroom: 401, grade: A, img_url: img12.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 404, grade: Fx, img_url: img12.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 403, grade: F, img_url: img12.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img12.jpg
-stud_name: Steve, course_name: Geology, teacher: Nick, ects: 60, classroom: 402, grade: B, img_url: img12.jpg
-stud_name: Steve, course_name: English, teacher: Iris, ects: 60, classroom: 408, grade: A, img_url: img12.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Kathrin, ects: 40, classroom: 407, grade: B, img_url: img12.jpg
-stud_name: Steve, course_name: History, teacher: Kathrin, ects: 60, classroom: 402, grade: F, img_url: img12.jpg
-stud_name: Steve, course_name: English, teacher: Tom, ects: 40, classroom: 402, grade: D, img_url: img12.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img13.jpg
-stud_name: Steve, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img13.jpg
-stud_name: Steve, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img13.jpg
-stud_name: Steve, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img13.jpg
-stud_name: Steve, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img13.jpg
-stud_name: Steve, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img13.jpg
-stud_name: Steve, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img13.jpg
-stud_name: Steve, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img13.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img13.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img13.jpg
-stud_name: Steve, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img13.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img13.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img13.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img13.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img13.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img13.jpg
-stud_name: Steve, course_name: Geology, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img13.jpg
-stud_name: Steve, course_name: English, teacher: Martin, ects: 40, classroom: 405, grade: Fx, img_url: img13.jpg
-stud_name: Steve, course_name: Geology, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img13.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img13.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 407, grade: F, img_url: img13.jpg
-stud_name: Steve, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: E, img_url: img13.jpg
-stud_name: Steve, course_name: Science, teacher: Tom, ects: 40, classroom: 406, grade: A, img_url: img13.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img13.jpg
-stud_name: Steve, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 403, grade: E, img_url: img13.jpg
-stud_name: Steve, course_name: Science, teacher: Susan, ects: 60, classroom: 407, grade: A, img_url: img13.jpg
-stud_name: Steve, course_name: Science, teacher: Nick, ects: 20, classroom: 402, grade: C, img_url: img13.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 405, grade: F, img_url: img13.jpg
-stud_name: Steve, course_name: English, teacher: Isabel, ects: 20, classroom: 408, grade: Fx, img_url: img13.jpg
-stud_name: Steve, course_name: History, teacher: Susan, ects: 20, classroom: 407, grade: E, img_url: img13.jpg
-stud_name: Steve, course_name: Psychology, teacher: Isabel, ects: 60, classroom: 405, grade: B, img_url: img13.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Jef, ects: 60, classroom: 401, grade: A, img_url: img13.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Jef, ects: 40, classroom: 405, grade: F, img_url: img13.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Iris, ects: 60, classroom: 403, grade: Fx, img_url: img13.jpg
-stud_name: Steve, course_name: Science, teacher: Susan, ects: 20, classroom: 401, grade: Fx, img_url: img13.jpg
-stud_name: Steve, course_name: Psychology, teacher: Jef, ects: 20, classroom: 408, grade: E, img_url: img13.jpg
-stud_name: Steve, course_name: Psychology, teacher: Isabel, ects: 20, classroom: 407, grade: Fx, img_url: img13.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 408, grade: B, img_url: img13.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Kathrin, ects: 20, classroom: 403, grade: E, img_url: img13.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Kathrin, ects: 40, classroom: 408, grade: B, img_url: img13.jpg
-stud_name: Steve, course_name: History, teacher: Tom, ects: 40, classroom: 401, grade: F, img_url: img13.jpg
-stud_name: Steve, course_name: English, teacher: Kathrin, ects: 20, classroom: 404, grade: A, img_url: img13.jpg
-stud_name: Steve, course_name: Science, teacher: Kathrin, ects: 20, classroom: 406, grade: C, img_url: img13.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Kathrin, ects: 60, classroom: 401, grade: A, img_url: img13.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 404, grade: Fx, img_url: img13.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 403, grade: F, img_url: img13.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img13.jpg
-stud_name: Steve, course_name: Geology, teacher: Nick, ects: 60, classroom: 402, grade: B, img_url: img13.jpg
-stud_name: Steve, course_name: English, teacher: Iris, ects: 60, classroom: 408, grade: A, img_url: img13.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Kathrin, ects: 40, classroom: 407, grade: B, img_url: img13.jpg
-stud_name: Steve, course_name: History, teacher: Kathrin, ects: 60, classroom: 402, grade: F, img_url: img13.jpg
-stud_name: Steve, course_name: English, teacher: Tom, ects: 40, classroom: 402, grade: D, img_url: img13.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Jef, ects: 40, classroom: 406, grade: F, img_url: img13.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Isabel, ects: 60, classroom: 408, grade: E, img_url: img13.jpg
-stud_name: Steve, course_name: Psychology, teacher: Iris, ects: 40, classroom: 406, grade: D, img_url: img13.jpg
-stud_name: Steve, course_name: Science, teacher: Tom, ects: 40, classroom: 405, grade: F, img_url: img13.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img14.jpg
-stud_name: Michael, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img14.jpg
-stud_name: Michael, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img14.jpg
-stud_name: Michael, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img14.jpg
-stud_name: Michael, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img14.jpg
-stud_name: Michael, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img14.jpg
-stud_name: Michael, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img14.jpg
-stud_name: Michael, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img14.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img14.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img14.jpg
-stud_name: Michael, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img14.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img14.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img14.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img14.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img14.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img14.jpg
-stud_name: Michael, course_name: Geology, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img14.jpg
-stud_name: Michael, course_name: English, teacher: Martin, ects: 40, classroom: 405, grade: Fx, img_url: img14.jpg
-stud_name: Michael, course_name: Geology, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img14.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img14.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 407, grade: F, img_url: img14.jpg
-stud_name: Michael, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: E, img_url: img14.jpg
-stud_name: Michael, course_name: Science, teacher: Tom, ects: 40, classroom: 406, grade: A, img_url: img14.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img14.jpg
-stud_name: Michael, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 403, grade: E, img_url: img14.jpg
-stud_name: Michael, course_name: Science, teacher: Susan, ects: 60, classroom: 407, grade: A, img_url: img14.jpg
-stud_name: Michael, course_name: Science, teacher: Nick, ects: 20, classroom: 402, grade: C, img_url: img14.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 405, grade: F, img_url: img14.jpg
-stud_name: Michael, course_name: English, teacher: Isabel, ects: 20, classroom: 408, grade: Fx, img_url: img14.jpg
-stud_name: Michael, course_name: History, teacher: Susan, ects: 20, classroom: 407, grade: E, img_url: img14.jpg
-stud_name: Michael, course_name: Psychology, teacher: Isabel, ects: 60, classroom: 405, grade: B, img_url: img14.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Jef, ects: 60, classroom: 401, grade: A, img_url: img14.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Jef, ects: 40, classroom: 405, grade: F, img_url: img14.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Iris, ects: 60, classroom: 403, grade: Fx, img_url: img14.jpg
-stud_name: Michael, course_name: Science, teacher: Susan, ects: 20, classroom: 401, grade: Fx, img_url: img14.jpg
-stud_name: Michael, course_name: Psychology, teacher: Jef, ects: 20, classroom: 408, grade: E, img_url: img14.jpg
-stud_name: Michael, course_name: Psychology, teacher: Isabel, ects: 20, classroom: 407, grade: Fx, img_url: img14.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 408, grade: B, img_url: img14.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Kathrin, ects: 20, classroom: 403, grade: E, img_url: img14.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Kathrin, ects: 40, classroom: 408, grade: B, img_url: img14.jpg
-stud_name: Michael, course_name: History, teacher: Tom, ects: 40, classroom: 401, grade: F, img_url: img14.jpg
-stud_name: Michael, course_name: English, teacher: Kathrin, ects: 20, classroom: 404, grade: A, img_url: img14.jpg
-stud_name: Michael, course_name: Science, teacher: Kathrin, ects: 20, classroom: 406, grade: C, img_url: img14.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Kathrin, ects: 60, classroom: 401, grade: A, img_url: img14.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 404, grade: Fx, img_url: img14.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 403, grade: F, img_url: img14.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img14.jpg
-stud_name: Michael, course_name: Geology, teacher: Nick, ects: 60, classroom: 402, grade: B, img_url: img14.jpg
-stud_name: Michael, course_name: English, teacher: Iris, ects: 60, classroom: 408, grade: A, img_url: img14.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Kathrin, ects: 40, classroom: 407, grade: B, img_url: img14.jpg
-stud_name: Michael, course_name: History, teacher: Kathrin, ects: 60, classroom: 402, grade: F, img_url: img14.jpg
-stud_name: Michael, course_name: English, teacher: Tom, ects: 40, classroom: 402, grade: D, img_url: img14.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Jef, ects: 40, classroom: 406, grade: F, img_url: img14.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Isabel, ects: 60, classroom: 408, grade: E, img_url: img14.jpg
-stud_name: Michael, course_name: Psychology, teacher: Iris, ects: 40, classroom: 406, grade: D, img_url: img14.jpg
-stud_name: Michael, course_name: Science, teacher: Tom, ects: 40, classroom: 405, grade: F, img_url: img14.jpg
-stud_name: Michael, course_name: Science, teacher: Iris, ects: 60, classroom: 401, grade: D, img_url: img14.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Martin, ects: 60, classroom: 402, grade: B, img_url: img14.jpg
-stud_name: Michael, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 404, grade: B, img_url: img14.jpg
-stud_name: Michael, course_name: History, teacher: Tom, ects: 60, classroom: 403, grade: Fx, img_url: img14.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img15.jpg
-stud_name: Taylor, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img15.jpg
-stud_name: Taylor, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img15.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img15.jpg
-stud_name: Taylor, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img15.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img15.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img15.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img15.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img15.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img15.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img15.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img15.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img15.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img15.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img15.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img15.jpg
-stud_name: Taylor, course_name: Geology, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img15.jpg
-stud_name: Taylor, course_name: English, teacher: Martin, ects: 40, classroom: 405, grade: Fx, img_url: img15.jpg
-stud_name: Taylor, course_name: Geology, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img15.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img15.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 407, grade: F, img_url: img15.jpg
-stud_name: Taylor, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: E, img_url: img15.jpg
-stud_name: Taylor, course_name: Science, teacher: Tom, ects: 40, classroom: 406, grade: A, img_url: img15.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img15.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 403, grade: E, img_url: img15.jpg
-stud_name: Taylor, course_name: Science, teacher: Susan, ects: 60, classroom: 407, grade: A, img_url: img15.jpg
-stud_name: Taylor, course_name: Science, teacher: Nick, ects: 20, classroom: 402, grade: C, img_url: img15.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 405, grade: F, img_url: img15.jpg
-stud_name: Taylor, course_name: English, teacher: Isabel, ects: 20, classroom: 408, grade: Fx, img_url: img15.jpg
-stud_name: Taylor, course_name: History, teacher: Susan, ects: 20, classroom: 407, grade: E, img_url: img15.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Isabel, ects: 60, classroom: 405, grade: B, img_url: img15.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Jef, ects: 60, classroom: 401, grade: A, img_url: img15.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Jef, ects: 40, classroom: 405, grade: F, img_url: img15.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Iris, ects: 60, classroom: 403, grade: Fx, img_url: img15.jpg
-stud_name: Taylor, course_name: Science, teacher: Susan, ects: 20, classroom: 401, grade: Fx, img_url: img15.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Jef, ects: 20, classroom: 408, grade: E, img_url: img15.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Isabel, ects: 20, classroom: 407, grade: Fx, img_url: img15.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 408, grade: B, img_url: img15.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Kathrin, ects: 20, classroom: 403, grade: E, img_url: img15.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Kathrin, ects: 40, classroom: 408, grade: B, img_url: img15.jpg
-stud_name: Taylor, course_name: History, teacher: Tom, ects: 40, classroom: 401, grade: F, img_url: img15.jpg
-stud_name: Taylor, course_name: English, teacher: Kathrin, ects: 20, classroom: 404, grade: A, img_url: img15.jpg
-stud_name: Taylor, course_name: Science, teacher: Kathrin, ects: 20, classroom: 406, grade: C, img_url: img15.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Kathrin, ects: 60, classroom: 401, grade: A, img_url: img15.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 404, grade: Fx, img_url: img15.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 403, grade: F, img_url: img15.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img15.jpg
-stud_name: Taylor, course_name: Geology, teacher: Nick, ects: 60, classroom: 402, grade: B, img_url: img15.jpg
-stud_name: Taylor, course_name: English, teacher: Iris, ects: 60, classroom: 408, grade: A, img_url: img15.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Kathrin, ects: 40, classroom: 407, grade: B, img_url: img15.jpg
-stud_name: Taylor, course_name: History, teacher: Kathrin, ects: 60, classroom: 402, grade: F, img_url: img15.jpg
-stud_name: Taylor, course_name: English, teacher: Tom, ects: 40, classroom: 402, grade: D, img_url: img15.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Jef, ects: 40, classroom: 406, grade: F, img_url: img15.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Isabel, ects: 60, classroom: 408, grade: E, img_url: img15.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Iris, ects: 40, classroom: 406, grade: D, img_url: img15.jpg
-stud_name: Taylor, course_name: Science, teacher: Tom, ects: 40, classroom: 405, grade: F, img_url: img15.jpg
-stud_name: Taylor, course_name: Science, teacher: Iris, ects: 60, classroom: 401, grade: D, img_url: img15.jpg
-stud_name: Taylor, course_name: Mathematics, teacher: Martin, ects: 60, classroom: 402, grade: B, img_url: img15.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 404, grade: B, img_url: img15.jpg
-stud_name: Taylor, course_name: History, teacher: Tom, ects: 60, classroom: 403, grade: Fx, img_url: img15.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Iris, ects: 40, classroom: 403, grade: A, img_url: img15.jpg
-stud_name: Taylor, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 401, grade: Fx, img_url: img15.jpg
-stud_name: Taylor, course_name: Art & Design, teacher: Nick, ects: 20, classroom: 404, grade: C, img_url: img15.jpg
-stud_name: Taylor, course_name: Psychology, teacher: Iris, ects: 20, classroom: 404, grade: B, img_url: img15.jpg
-stud_name: Georg, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img16.jpg
-stud_name: Georg, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img16.jpg
-stud_name: Georg, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img16.jpg
-stud_name: Georg, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img16.jpg
-stud_name: Georg, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img16.jpg
-stud_name: Georg, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img16.jpg
-stud_name: Georg, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img16.jpg
-stud_name: Georg, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img16.jpg
-stud_name: Georg, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img16.jpg
-stud_name: Georg, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img16.jpg
-stud_name: Georg, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img16.jpg
-stud_name: Georg, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img16.jpg
-stud_name: Georg, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img16.jpg
-stud_name: Georg, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img16.jpg
-stud_name: Georg, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img16.jpg
-stud_name: Georg, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img16.jpg
-stud_name: Georg, course_name: Geology, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img16.jpg
-stud_name: Georg, course_name: English, teacher: Martin, ects: 40, classroom: 405, grade: Fx, img_url: img16.jpg
-stud_name: Georg, course_name: Geology, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img16.jpg
-stud_name: Georg, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img16.jpg
-stud_name: Georg, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 407, grade: F, img_url: img16.jpg
-stud_name: Georg, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: E, img_url: img16.jpg
-stud_name: Georg, course_name: Science, teacher: Tom, ects: 40, classroom: 406, grade: A, img_url: img16.jpg
-stud_name: Georg, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img16.jpg
-stud_name: Georg, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 403, grade: E, img_url: img16.jpg
-stud_name: Georg, course_name: Science, teacher: Susan, ects: 60, classroom: 407, grade: A, img_url: img16.jpg
-stud_name: Georg, course_name: Science, teacher: Nick, ects: 20, classroom: 402, grade: C, img_url: img16.jpg
-stud_name: Georg, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 405, grade: F, img_url: img16.jpg
-stud_name: Georg, course_name: English, teacher: Isabel, ects: 20, classroom: 408, grade: Fx, img_url: img16.jpg
-stud_name: Georg, course_name: History, teacher: Susan, ects: 20, classroom: 407, grade: E, img_url: img16.jpg
-stud_name: Georg, course_name: Psychology, teacher: Isabel, ects: 60, classroom: 405, grade: B, img_url: img16.jpg
-stud_name: Georg, course_name: Chemistry, teacher: Jef, ects: 60, classroom: 401, grade: A, img_url: img16.jpg
-stud_name: Georg, course_name: Mathematics, teacher: Jef, ects: 40, classroom: 405, grade: F, img_url: img16.jpg
-stud_name: Georg, course_name: Art & Design, teacher: Iris, ects: 60, classroom: 403, grade: Fx, img_url: img16.jpg
-stud_name: Georg, course_name: Science, teacher: Susan, ects: 20, classroom: 401, grade: Fx, img_url: img16.jpg
-stud_name: Georg, course_name: Psychology, teacher: Jef, ects: 20, classroom: 408, grade: E, img_url: img16.jpg
-stud_name: Georg, course_name: Psychology, teacher: Isabel, ects: 20, classroom: 407, grade: Fx, img_url: img16.jpg
-stud_name: Georg, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 408, grade: B, img_url: img16.jpg
-stud_name: Georg, course_name: Mathematics, teacher: Kathrin, ects: 20, classroom: 403, grade: E, img_url: img16.jpg
-stud_name: Georg, course_name: Chemistry, teacher: Kathrin, ects: 40, classroom: 408, grade: B, img_url: img16.jpg
-stud_name: Georg, course_name: History, teacher: Tom, ects: 40, classroom: 401, grade: F, img_url: img16.jpg
-stud_name: Georg, course_name: English, teacher: Kathrin, ects: 20, classroom: 404, grade: A, img_url: img16.jpg
-stud_name: Georg, course_name: Science, teacher: Kathrin, ects: 20, classroom: 406, grade: C, img_url: img16.jpg
-stud_name: Georg, course_name: Art & Design, teacher: Kathrin, ects: 60, classroom: 401, grade: A, img_url: img16.jpg
-stud_name: Georg, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 404, grade: Fx, img_url: img16.jpg
-stud_name: Georg, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 403, grade: F, img_url: img16.jpg
-stud_name: Georg, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img16.jpg
-stud_name: Georg, course_name: Geology, teacher: Nick, ects: 60, classroom: 402, grade: B, img_url: img16.jpg
-stud_name: Georg, course_name: English, teacher: Iris, ects: 60, classroom: 408, grade: A, img_url: img16.jpg
-stud_name: Georg, course_name: Mathematics, teacher: Kathrin, ects: 40, classroom: 407, grade: B, img_url: img16.jpg
-stud_name: Georg, course_name: History, teacher: Kathrin, ects: 60, classroom: 402, grade: F, img_url: img16.jpg
-stud_name: Georg, course_name: English, teacher: Tom, ects: 40, classroom: 402, grade: D, img_url: img16.jpg
-stud_name: Georg, course_name: Art & Design, teacher: Jef, ects: 40, classroom: 406, grade: F, img_url: img16.jpg
-stud_name: Georg, course_name: Chemistry, teacher: Isabel, ects: 60, classroom: 408, grade: E, img_url: img16.jpg
-stud_name: Georg, course_name: Psychology, teacher: Iris, ects: 40, classroom: 406, grade: D, img_url: img16.jpg
-stud_name: Georg, course_name: Science, teacher: Tom, ects: 40, classroom: 405, grade: F, img_url: img16.jpg
-stud_name: Georg, course_name: Science, teacher: Iris, ects: 60, classroom: 401, grade: D, img_url: img16.jpg
-stud_name: Georg, course_name: Mathematics, teacher: Martin, ects: 60, classroom: 402, grade: B, img_url: img16.jpg
-stud_name: Georg, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 404, grade: B, img_url: img16.jpg
-stud_name: Georg, course_name: History, teacher: Tom, ects: 60, classroom: 403, grade: Fx, img_url: img16.jpg
-stud_name: Georg, course_name: Art & Design, teacher: Iris, ects: 40, classroom: 403, grade: A, img_url: img16.jpg
-stud_name: Georg, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 401, grade: Fx, img_url: img16.jpg
-stud_name: Georg, course_name: Art & Design, teacher: Nick, ects: 20, classroom: 404, grade: C, img_url: img16.jpg
-stud_name: Georg, course_name: Psychology, teacher: Iris, ects: 20, classroom: 404, grade: B, img_url: img16.jpg
-stud_name: Georg, course_name: Psychology, teacher: Martin, ects: 20, classroom: 402, grade: F, img_url: img16.jpg
-stud_name: Georg, course_name: English, teacher: Jef, ects: 60, classroom: 404, grade: D, img_url: img16.jpg
-stud_name: Georg, course_name: Science, teacher: Martin, ects: 60, classroom: 407, grade: Fx, img_url: img16.jpg
-stud_name: Georg, course_name: Chemistry, teacher: Susan, ects: 60, classroom: 402, grade: C, img_url: img16.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img17.jpg
-stud_name: Steve, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img17.jpg
-stud_name: Steve, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img17.jpg
-stud_name: Steve, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img17.jpg
-stud_name: Steve, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img17.jpg
-stud_name: Steve, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img17.jpg
-stud_name: Steve, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img17.jpg
-stud_name: Steve, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img17.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img17.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img17.jpg
-stud_name: Steve, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img17.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img17.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img17.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img17.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img17.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img17.jpg
-stud_name: Steve, course_name: Geology, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img17.jpg
-stud_name: Steve, course_name: English, teacher: Martin, ects: 40, classroom: 405, grade: Fx, img_url: img17.jpg
-stud_name: Steve, course_name: Geology, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img17.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img17.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 407, grade: F, img_url: img17.jpg
-stud_name: Steve, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: E, img_url: img17.jpg
-stud_name: Steve, course_name: Science, teacher: Tom, ects: 40, classroom: 406, grade: A, img_url: img17.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img17.jpg
-stud_name: Steve, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 403, grade: E, img_url: img17.jpg
-stud_name: Steve, course_name: Science, teacher: Susan, ects: 60, classroom: 407, grade: A, img_url: img17.jpg
-stud_name: Steve, course_name: Science, teacher: Nick, ects: 20, classroom: 402, grade: C, img_url: img17.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 405, grade: F, img_url: img17.jpg
-stud_name: Steve, course_name: English, teacher: Isabel, ects: 20, classroom: 408, grade: Fx, img_url: img17.jpg
-stud_name: Steve, course_name: History, teacher: Susan, ects: 20, classroom: 407, grade: E, img_url: img17.jpg
-stud_name: Steve, course_name: Psychology, teacher: Isabel, ects: 60, classroom: 405, grade: B, img_url: img17.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Jef, ects: 60, classroom: 401, grade: A, img_url: img17.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Jef, ects: 40, classroom: 405, grade: F, img_url: img17.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Iris, ects: 60, classroom: 403, grade: Fx, img_url: img17.jpg
-stud_name: Steve, course_name: Science, teacher: Susan, ects: 20, classroom: 401, grade: Fx, img_url: img17.jpg
-stud_name: Steve, course_name: Psychology, teacher: Jef, ects: 20, classroom: 408, grade: E, img_url: img17.jpg
-stud_name: Steve, course_name: Psychology, teacher: Isabel, ects: 20, classroom: 407, grade: Fx, img_url: img17.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 408, grade: B, img_url: img17.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Kathrin, ects: 20, classroom: 403, grade: E, img_url: img17.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Kathrin, ects: 40, classroom: 408, grade: B, img_url: img17.jpg
-stud_name: Steve, course_name: History, teacher: Tom, ects: 40, classroom: 401, grade: F, img_url: img17.jpg
-stud_name: Steve, course_name: English, teacher: Kathrin, ects: 20, classroom: 404, grade: A, img_url: img17.jpg
-stud_name: Steve, course_name: Science, teacher: Kathrin, ects: 20, classroom: 406, grade: C, img_url: img17.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Kathrin, ects: 60, classroom: 401, grade: A, img_url: img17.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 404, grade: Fx, img_url: img17.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 403, grade: F, img_url: img17.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img17.jpg
-stud_name: Steve, course_name: Geology, teacher: Nick, ects: 60, classroom: 402, grade: B, img_url: img17.jpg
-stud_name: Steve, course_name: English, teacher: Iris, ects: 60, classroom: 408, grade: A, img_url: img17.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Kathrin, ects: 40, classroom: 407, grade: B, img_url: img17.jpg
-stud_name: Steve, course_name: History, teacher: Kathrin, ects: 60, classroom: 402, grade: F, img_url: img17.jpg
-stud_name: Steve, course_name: English, teacher: Tom, ects: 40, classroom: 402, grade: D, img_url: img17.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Jef, ects: 40, classroom: 406, grade: F, img_url: img17.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Isabel, ects: 60, classroom: 408, grade: E, img_url: img17.jpg
-stud_name: Steve, course_name: Psychology, teacher: Iris, ects: 40, classroom: 406, grade: D, img_url: img17.jpg
-stud_name: Steve, course_name: Science, teacher: Tom, ects: 40, classroom: 405, grade: F, img_url: img17.jpg
-stud_name: Steve, course_name: Science, teacher: Iris, ects: 60, classroom: 401, grade: D, img_url: img17.jpg
-stud_name: Steve, course_name: Mathematics, teacher: Martin, ects: 60, classroom: 402, grade: B, img_url: img17.jpg
-stud_name: Steve, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 404, grade: B, img_url: img17.jpg
-stud_name: Steve, course_name: History, teacher: Tom, ects: 60, classroom: 403, grade: Fx, img_url: img17.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Iris, ects: 40, classroom: 403, grade: A, img_url: img17.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 401, grade: Fx, img_url: img17.jpg
-stud_name: Steve, course_name: Art & Design, teacher: Nick, ects: 20, classroom: 404, grade: C, img_url: img17.jpg
-stud_name: Steve, course_name: Psychology, teacher: Iris, ects: 20, classroom: 404, grade: B, img_url: img17.jpg
-stud_name: Steve, course_name: Psychology, teacher: Martin, ects: 20, classroom: 402, grade: F, img_url: img17.jpg
-stud_name: Steve, course_name: English, teacher: Jef, ects: 60, classroom: 404, grade: D, img_url: img17.jpg
-stud_name: Steve, course_name: Science, teacher: Martin, ects: 60, classroom: 407, grade: Fx, img_url: img17.jpg
-stud_name: Steve, course_name: Chemistry, teacher: Susan, ects: 60, classroom: 402, grade: C, img_url: img17.jpg
-stud_name: Steve, course_name: History, teacher: Nick, ects: 60, classroom: 407, grade: C, img_url: img17.jpg
-stud_name: Steve, course_name: Geology, teacher: Isabel, ects: 20, classroom: 405, grade: Fx, img_url: img17.jpg
-stud_name: Steve, course_name: Psychology, teacher: Susan, ects: 40, classroom: 405, grade: E, img_url: img17.jpg
-stud_name: Steve, course_name: Science, teacher: Kathrin, ects: 60, classroom: 407, grade: F, img_url: img17.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img18.jpg
-stud_name: Michael, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img18.jpg
-stud_name: Michael, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img18.jpg
-stud_name: Michael, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img18.jpg
-stud_name: Michael, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img18.jpg
-stud_name: Michael, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img18.jpg
-stud_name: Michael, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img18.jpg
-stud_name: Michael, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img18.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img18.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img18.jpg
-stud_name: Michael, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img18.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img18.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img18.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img18.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img18.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img18.jpg
-stud_name: Michael, course_name: Geology, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img18.jpg
-stud_name: Michael, course_name: English, teacher: Martin, ects: 40, classroom: 405, grade: Fx, img_url: img18.jpg
-stud_name: Michael, course_name: Geology, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img18.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img18.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 407, grade: F, img_url: img18.jpg
-stud_name: Michael, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: E, img_url: img18.jpg
-stud_name: Michael, course_name: Science, teacher: Tom, ects: 40, classroom: 406, grade: A, img_url: img18.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img18.jpg
-stud_name: Michael, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 403, grade: E, img_url: img18.jpg
-stud_name: Michael, course_name: Science, teacher: Susan, ects: 60, classroom: 407, grade: A, img_url: img18.jpg
-stud_name: Michael, course_name: Science, teacher: Nick, ects: 20, classroom: 402, grade: C, img_url: img18.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 405, grade: F, img_url: img18.jpg
-stud_name: Michael, course_name: English, teacher: Isabel, ects: 20, classroom: 408, grade: Fx, img_url: img18.jpg
-stud_name: Michael, course_name: History, teacher: Susan, ects: 20, classroom: 407, grade: E, img_url: img18.jpg
-stud_name: Michael, course_name: Psychology, teacher: Isabel, ects: 60, classroom: 405, grade: B, img_url: img18.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Jef, ects: 60, classroom: 401, grade: A, img_url: img18.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Jef, ects: 40, classroom: 405, grade: F, img_url: img18.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Iris, ects: 60, classroom: 403, grade: Fx, img_url: img18.jpg
-stud_name: Michael, course_name: Science, teacher: Susan, ects: 20, classroom: 401, grade: Fx, img_url: img18.jpg
-stud_name: Michael, course_name: Psychology, teacher: Jef, ects: 20, classroom: 408, grade: E, img_url: img18.jpg
-stud_name: Michael, course_name: Psychology, teacher: Isabel, ects: 20, classroom: 407, grade: Fx, img_url: img18.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 408, grade: B, img_url: img18.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Kathrin, ects: 20, classroom: 403, grade: E, img_url: img18.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Kathrin, ects: 40, classroom: 408, grade: B, img_url: img18.jpg
-stud_name: Michael, course_name: History, teacher: Tom, ects: 40, classroom: 401, grade: F, img_url: img18.jpg
-stud_name: Michael, course_name: English, teacher: Kathrin, ects: 20, classroom: 404, grade: A, img_url: img18.jpg
-stud_name: Michael, course_name: Science, teacher: Kathrin, ects: 20, classroom: 406, grade: C, img_url: img18.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Kathrin, ects: 60, classroom: 401, grade: A, img_url: img18.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 404, grade: Fx, img_url: img18.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 403, grade: F, img_url: img18.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img18.jpg
-stud_name: Michael, course_name: Geology, teacher: Nick, ects: 60, classroom: 402, grade: B, img_url: img18.jpg
-stud_name: Michael, course_name: English, teacher: Iris, ects: 60, classroom: 408, grade: A, img_url: img18.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Kathrin, ects: 40, classroom: 407, grade: B, img_url: img18.jpg
-stud_name: Michael, course_name: History, teacher: Kathrin, ects: 60, classroom: 402, grade: F, img_url: img18.jpg
-stud_name: Michael, course_name: English, teacher: Tom, ects: 40, classroom: 402, grade: D, img_url: img18.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Jef, ects: 40, classroom: 406, grade: F, img_url: img18.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Isabel, ects: 60, classroom: 408, grade: E, img_url: img18.jpg
-stud_name: Michael, course_name: Psychology, teacher: Iris, ects: 40, classroom: 406, grade: D, img_url: img18.jpg
-stud_name: Michael, course_name: Science, teacher: Tom, ects: 40, classroom: 405, grade: F, img_url: img18.jpg
-stud_name: Michael, course_name: Science, teacher: Iris, ects: 60, classroom: 401, grade: D, img_url: img18.jpg
-stud_name: Michael, course_name: Mathematics, teacher: Martin, ects: 60, classroom: 402, grade: B, img_url: img18.jpg
-stud_name: Michael, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 404, grade: B, img_url: img18.jpg
-stud_name: Michael, course_name: History, teacher: Tom, ects: 60, classroom: 403, grade: Fx, img_url: img18.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Iris, ects: 40, classroom: 403, grade: A, img_url: img18.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 401, grade: Fx, img_url: img18.jpg
-stud_name: Michael, course_name: Art & Design, teacher: Nick, ects: 20, classroom: 404, grade: C, img_url: img18.jpg
-stud_name: Michael, course_name: Psychology, teacher: Iris, ects: 20, classroom: 404, grade: B, img_url: img18.jpg
-stud_name: Michael, course_name: Psychology, teacher: Martin, ects: 20, classroom: 402, grade: F, img_url: img18.jpg
-stud_name: Michael, course_name: English, teacher: Jef, ects: 60, classroom: 404, grade: D, img_url: img18.jpg
-stud_name: Michael, course_name: Science, teacher: Martin, ects: 60, classroom: 407, grade: Fx, img_url: img18.jpg
-stud_name: Michael, course_name: Chemistry, teacher: Susan, ects: 60, classroom: 402, grade: C, img_url: img18.jpg
-stud_name: Michael, course_name: History, teacher: Nick, ects: 60, classroom: 407, grade: C, img_url: img18.jpg
-stud_name: Michael, course_name: Geology, teacher: Isabel, ects: 20, classroom: 405, grade: Fx, img_url: img18.jpg
-stud_name: Michael, course_name: Psychology, teacher: Susan, ects: 40, classroom: 405, grade: E, img_url: img18.jpg
-stud_name: Michael, course_name: Science, teacher: Kathrin, ects: 60, classroom: 407, grade: F, img_url: img18.jpg
-stud_name: Michael, course_name: History, teacher: Susan, ects: 20, classroom: 407, grade: D, img_url: img18.jpg
-stud_name: Michael, course_name: History, teacher: Jef, ects: 60, classroom: 406, grade: B, img_url: img18.jpg
-stud_name: Michael, course_name: English, teacher: Susan, ects: 20, classroom: 402, grade: E, img_url: img18.jpg
-stud_name: Michael, course_name: Geology, teacher: Martin, ects: 20, classroom: 404, grade: Fx, img_url: img18.jpg
-stud_name: Selena, course_name: Chemistry, teacher: Kathrin, ects: 60, classroom: 405, grade: B, img_url: img19.jpg
-stud_name: Selena, course_name: Science, teacher: Martin, ects: 20, classroom: 408, grade: Fx, img_url: img19.jpg
-stud_name: Selena, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 404, grade: F, img_url: img19.jpg
-stud_name: Selena, course_name: Psychology, teacher: Tom, ects: 20, classroom: 404, grade: F, img_url: img19.jpg
-stud_name: Selena, course_name: English, teacher: Iris, ects: 60, classroom: 407, grade: F, img_url: img19.jpg
-stud_name: Selena, course_name: Psychology, teacher: Martin, ects: 60, classroom: 408, grade: Fx, img_url: img19.jpg
-stud_name: Selena, course_name: Psychology, teacher: Nick, ects: 60, classroom: 408, grade: F, img_url: img19.jpg
-stud_name: Selena, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 405, grade: C, img_url: img19.jpg
-stud_name: Selena, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 406, grade: D, img_url: img19.jpg
-stud_name: Selena, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 402, grade: Fx, img_url: img19.jpg
-stud_name: Selena, course_name: Psychology, teacher: Susan, ects: 60, classroom: 401, grade: A, img_url: img19.jpg
-stud_name: Selena, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 403, grade: C, img_url: img19.jpg
-stud_name: Selena, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 404, grade: A, img_url: img19.jpg
-stud_name: Selena, course_name: Mathematics, teacher: Isabel, ects: 40, classroom: 403, grade: D, img_url: img19.jpg
-stud_name: Selena, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 407, grade: F, img_url: img19.jpg
-stud_name: Selena, course_name: Chemistry, teacher: Susan, ects: 40, classroom: 405, grade: B, img_url: img19.jpg
-stud_name: Selena, course_name: Geology, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img19.jpg
-stud_name: Selena, course_name: English, teacher: Martin, ects: 40, classroom: 405, grade: Fx, img_url: img19.jpg
-stud_name: Selena, course_name: Geology, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img19.jpg
-stud_name: Selena, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img19.jpg
-stud_name: Selena, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 407, grade: F, img_url: img19.jpg
-stud_name: Selena, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: E, img_url: img19.jpg
-stud_name: Selena, course_name: Science, teacher: Tom, ects: 40, classroom: 406, grade: A, img_url: img19.jpg
-stud_name: Selena, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img19.jpg
-stud_name: Selena, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 403, grade: E, img_url: img19.jpg
-stud_name: Selena, course_name: Science, teacher: Susan, ects: 60, classroom: 407, grade: A, img_url: img19.jpg
-stud_name: Selena, course_name: Science, teacher: Nick, ects: 20, classroom: 402, grade: C, img_url: img19.jpg
-stud_name: Selena, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 405, grade: F, img_url: img19.jpg
-stud_name: Selena, course_name: English, teacher: Isabel, ects: 20, classroom: 408, grade: Fx, img_url: img19.jpg
-stud_name: Selena, course_name: History, teacher: Susan, ects: 20, classroom: 407, grade: E, img_url: img19.jpg
-stud_name: Selena, course_name: Psychology, teacher: Isabel, ects: 60, classroom: 405, grade: B, img_url: img19.jpg
-stud_name: Selena, course_name: Chemistry, teacher: Jef, ects: 60, classroom: 401, grade: A, img_url: img19.jpg
-stud_name: Selena, course_name: Mathematics, teacher: Jef, ects: 40, classroom: 405, grade: F, img_url: img19.jpg
-stud_name: Selena, course_name: Art & Design, teacher: Iris, ects: 60, classroom: 403, grade: Fx, img_url: img19.jpg
-stud_name: Selena, course_name: Science, teacher: Susan, ects: 20, classroom: 401, grade: Fx, img_url: img19.jpg
-stud_name: Selena, course_name: Psychology, teacher: Jef, ects: 20, classroom: 408, grade: E, img_url: img19.jpg
-stud_name: Selena, course_name: Psychology, teacher: Isabel, ects: 20, classroom: 407, grade: Fx, img_url: img19.jpg
-stud_name: Selena, course_name: Mathematics, teacher: Jef, ects: 60, classroom: 408, grade: B, img_url: img19.jpg
-stud_name: Selena, course_name: Mathematics, teacher: Kathrin, ects: 20, classroom: 403, grade: E, img_url: img19.jpg
-stud_name: Selena, course_name: Chemistry, teacher: Kathrin, ects: 40, classroom: 408, grade: B, img_url: img19.jpg
-stud_name: Selena, course_name: History, teacher: Tom, ects: 40, classroom: 401, grade: F, img_url: img19.jpg
-stud_name: Selena, course_name: English, teacher: Kathrin, ects: 20, classroom: 404, grade: A, img_url: img19.jpg
-stud_name: Selena, course_name: Science, teacher: Kathrin, ects: 20, classroom: 406, grade: C, img_url: img19.jpg
-stud_name: Selena, course_name: Art & Design, teacher: Kathrin, ects: 60, classroom: 401, grade: A, img_url: img19.jpg
-stud_name: Selena, course_name: Chemistry, teacher: Tom, ects: 40, classroom: 404, grade: Fx, img_url: img19.jpg
-stud_name: Selena, course_name: Art & Design, teacher: Martin, ects: 60, classroom: 403, grade: F, img_url: img19.jpg
-stud_name: Selena, course_name: Art & Design, teacher: Susan, ects: 60, classroom: 403, grade: D, img_url: img19.jpg
-stud_name: Selena, course_name: Geology, teacher: Nick, ects: 60, classroom: 402, grade: B, img_url: img19.jpg
-stud_name: Selena, course_name: English, teacher: Iris, ects: 60, classroom: 408, grade: A, img_url: img19.jpg
-stud_name: Selena, course_name: Mathematics, teacher: Kathrin, ects: 40, classroom: 407, grade: B, img_url: img19.jpg
-stud_name: Selena, course_name: History, teacher: Kathrin, ects: 60, classroom: 402, grade: F, img_url: img19.jpg
-stud_name: Selena, course_name: English, teacher: Tom, ects: 40, classroom: 402, grade: D, img_url: img19.jpg
-stud_name: Selena, course_name: Art & Design, teacher: Jef, ects: 40, classroom: 406, grade: F, img_url: img19.jpg
-stud_name: Selena, course_name: Chemistry, teacher: Isabel, ects: 60, classroom: 408, grade: E, img_url: img19.jpg
-stud_name: Selena, course_name: Psychology, teacher: Iris, ects: 40, classroom: 406, grade: D, img_url: img19.jpg
-stud_name: Selena, course_name: Science, teacher: Tom, ects: 40, classroom: 405, grade: F, img_url: img19.jpg
-stud_name: Selena, course_name: Science, teacher: Iris, ects: 60, classroom: 401, grade: D, img_url: img19.jpg
-stud_name: Selena, course_name: Mathematics, teacher: Martin, ects: 60, classroom: 402, grade: B, img_url: img19.jpg
-stud_name: Selena, course_name: Psychology, teacher: Kathrin, ects: 60, classroom: 404, grade: B, img_url: img19.jpg
-stud_name: Selena, course_name: History, teacher: Tom, ects: 60, classroom: 403, grade: Fx, img_url: img19.jpg
-stud_name: Selena, course_name: Art & Design, teacher: Iris, ects: 40, classroom: 403, grade: A, img_url: img19.jpg
-stud_name: Selena, course_name: Chemistry, teacher: Martin, ects: 60, classroom: 401, grade: Fx, img_url: img19.jpg
-stud_name: Selena, course_name: Art & Design, teacher: Nick, ects: 20, classroom: 404, grade: C, img_url: img19.jpg
-stud_name: Selena, course_name: Psychology, teacher: Iris, ects: 20, classroom: 404, grade: B, img_url: img19.jpg
-stud_name: Selena, course_name: Psychology, teacher: Martin, ects: 20, classroom: 402, grade: F, img_url: img19.jpg
-stud_name: Selena, course_name: English, teacher: Jef, ects: 60, classroom: 404, grade: D, img_url: img19.jpg
-stud_name: Selena, course_name: Science, teacher: Martin, ects: 60, classroom: 407, grade: Fx, img_url: img19.jpg
-stud_name: Selena, course_name: Chemistry, teacher: Susan, ects: 60, classroom: 402, grade: C, img_url: img19.jpg
-stud_name: Selena, course_name: History, teacher: Nick, ects: 60, classroom: 407, grade: C, img_url: img19.jpg
-stud_name: Selena, course_name: Geology, teacher: Isabel, ects: 20, classroom: 405, grade: Fx, img_url: img19.jpg
-stud_name: Selena, course_name: Psychology, teacher: Susan, ects: 40, classroom: 405, grade: E, img_url: img19.jpg
-stud_name: Selena, course_name: Science, teacher: Kathrin, ects: 60, classroom: 407, grade: F, img_url: img19.jpg
-stud_name: Selena, course_name: History, teacher: Susan, ects: 20, classroom: 407, grade: D, img_url: img19.jpg
-stud_name: Selena, course_name: History, teacher: Jef, ects: 60, classroom: 406, grade: B, img_url: img19.jpg
-stud_name: Selena, course_name: English, teacher: Susan, ects: 20, classroom: 402, grade: E, img_url: img19.jpg
-stud_name: Selena, course_name: Geology, teacher: Martin, ects: 20, classroom: 404, grade: Fx, img_url: img19.jpg
-stud_name: Selena, course_name: Science, teacher: Iris, ects: 60, classroom: 406, grade: D, img_url: img19.jpg
-stud_name: Selena, course_name: History, teacher: Kathrin, ects: 20, classroom: 407, grade: Fx, img_url: img19.jpg
-stud_name: Selena, course_name: Geology, teacher: Nick, ects: 40, classroom: 408, grade: D, img_url: img19.jpg
-stud_name: Selena, course_name: Mathematics, teacher: Martin, ects: 20, classroom: 402, grade: D, img_url: img19.jpg
+stud_name: Taylor, course_name: Geology, teacher: Isabel, ects: 20, classroom: 405, grade: A, img_url: img0.jpg
+stud_name: Taylor, course_name: English, teacher: Kathrin, ects: 20, classroom: 403, grade: D, img_url: img0.jpg
+stud_name: Taylor, course_name: Chemistry, teacher: Tom, ects: 20, classroom: 404, grade: Fx, img_url: img0.jpg
+stud_name: Taylor, course_name: Science, teacher: Susan, ects: 20, classroom: 402, grade: C, img_url: img0.jpg
+stud_name: Taylor, course_name: History, teacher: Jef, ects: 20, classroom: 408, grade: C, img_url: img0.jpg
+stud_name: Taylor, course_name: Geology, teacher: Isabel, ects: 20, classroom: 407, grade: B, img_url: img1.jpg
+stud_name: Taylor, course_name: History, teacher: Tom, ects: 20, classroom: 404, grade: B, img_url: img1.jpg
+stud_name: Taylor, course_name: Psychology, teacher: Nick, ects: 20, classroom: 401, grade: B, img_url: img1.jpg
+stud_name: Taylor, course_name: Mathematics, teacher: Kathrin, ects: 20, classroom: 405, grade: Fx, img_url: img1.jpg
+stud_name: Taylor, course_name: Science, teacher: Martin, ects: 20, classroom: 406, grade: C, img_url: img1.jpg
+stud_name: Brie, course_name: Geology, teacher: Isabel, ects: 20, classroom: 408, grade: F, img_url: img2.jpg
+stud_name: Brie, course_name: English, teacher: Tom, ects: 20, classroom: 407, grade: C, img_url: img2.jpg
+stud_name: Brie, course_name: History, teacher: Iris, ects: 20, classroom: 402, grade: Fx, img_url: img2.jpg
+stud_name: Brie, course_name: Psychology, teacher: Kathrin, ects: 20, classroom: 404, grade: D, img_url: img2.jpg
+stud_name: Brie, course_name: Science, teacher: Martin, ects: 20, classroom: 405, grade: D, img_url: img2.jpg
+stud_name: Georg, course_name: Mathematics, teacher: Jef, ects: 20, classroom: 407, grade: A, img_url: img3.jpg
+stud_name: Georg, course_name: English, teacher: Susan, ects: 20, classroom: 405, grade: D, img_url: img3.jpg
+stud_name: Georg, course_name: Art & Design, teacher: Iris, ects: 20, classroom: 408, grade: C, img_url: img3.jpg
+stud_name: Georg, course_name: Psychology, teacher: Tom, ects: 20, classroom: 406, grade: B, img_url: img3.jpg
+stud_name: Georg, course_name: Science, teacher: Nick, ects: 20, classroom: 404, grade: F, img_url: img3.jpg
+stud_name: Georg, course_name: Science, teacher: Kathrin, ects: 20, classroom: 401, grade: D, img_url: img4.jpg
+stud_name: Georg, course_name: Chemistry, teacher: Iris, ects: 20, classroom: 402, grade: C, img_url: img4.jpg
+stud_name: Georg, course_name: Art & Design, teacher: Susan, ects: 20, classroom: 403, grade: D, img_url: img4.jpg
+stud_name: Georg, course_name: Psychology, teacher: Jef, ects: 20, classroom: 407, grade: C, img_url: img4.jpg
+stud_name: Georg, course_name: Geology, teacher: Isabel, ects: 20, classroom: 405, grade: C, img_url: img4.jpg
+stud_name: Steve, course_name: Art & Design, teacher: Nick, ects: 20, classroom: 403, grade: Fx, img_url: img5.jpg
+stud_name: Steve, course_name: English, teacher: Iris, ects: 20, classroom: 404, grade: C, img_url: img5.jpg
+stud_name: Steve, course_name: Psychology, teacher: Tom, ects: 20, classroom: 408, grade: D, img_url: img5.jpg
+stud_name: Steve, course_name: Geology, teacher: Susan, ects: 20, classroom: 406, grade: C, img_url: img5.jpg
+stud_name: Steve, course_name: Chemistry, teacher: Kathrin, ects: 20, classroom: 402, grade: B, img_url: img5.jpg
+stud_name: Steve, course_name: English, teacher: Nick, ects: 20, classroom: 402, grade: E, img_url: img6.jpg
+stud_name: Steve, course_name: Science, teacher: Jef, ects: 20, classroom: 405, grade: Fx, img_url: img6.jpg
+stud_name: Steve, course_name: Geology, teacher: Tom, ects: 20, classroom: 407, grade: C, img_url: img6.jpg
+stud_name: Steve, course_name: Chemistry, teacher: Kathrin, ects: 20, classroom: 401, grade: D, img_url: img6.jpg
+stud_name: Steve, course_name: Mathematics, teacher: Susan, ects: 20, classroom: 404, grade: B, img_url: img6.jpg
+stud_name: Brie, course_name: Psychology, teacher: Tom, ects: 20, classroom: 407, grade: A, img_url: img7.jpg
+stud_name: Brie, course_name: Science, teacher: Isabel, ects: 20, classroom: 402, grade: E, img_url: img7.jpg
+stud_name: Brie, course_name: English, teacher: Susan, ects: 20, classroom: 405, grade: C, img_url: img7.jpg
+stud_name: Brie, course_name: History, teacher: Martin, ects: 20, classroom: 404, grade: B, img_url: img7.jpg
+stud_name: Brie, course_name: Chemistry, teacher: Nick, ects: 20, classroom: 401, grade: C, img_url: img7.jpg
+stud_name: Georg, course_name: History, teacher: Martin, ects: 20, classroom: 403, grade: B, img_url: img8.jpg
+stud_name: Georg, course_name: Science, teacher: Tom, ects: 20, classroom: 407, grade: C, img_url: img8.jpg
+stud_name: Georg, course_name: English, teacher: Jef, ects: 20, classroom: 404, grade: D, img_url: img8.jpg
+stud_name: Georg, course_name: Psychology, teacher: Isabel, ects: 20, classroom: 406, grade: A, img_url: img8.jpg
+stud_name: Georg, course_name: Art & Design, teacher: Kathrin, ects: 20, classroom: 401, grade: D, img_url: img8.jpg
+stud_name: Taylor, course_name: English, teacher: Iris, ects: 20, classroom: 405, grade: D, img_url: img9.jpg
+stud_name: Taylor, course_name: Mathematics, teacher: Jef, ects: 20, classroom: 403, grade: E, img_url: img9.jpg
+stud_name: Taylor, course_name: Geology, teacher: Isabel, ects: 20, classroom: 404, grade: C, img_url: img9.jpg
+stud_name: Taylor, course_name: Psychology, teacher: Nick, ects: 20, classroom: 407, grade: B, img_url: img9.jpg
+stud_name: Taylor, course_name: Art & Design, teacher: Kathrin, ects: 20, classroom: 406, grade: D, img_url: img9.jpg
+stud_name: Taylor, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: F, img_url: img10.jpg
+stud_name: Taylor, course_name: Mathematics, teacher: Iris, ects: 20, classroom: 407, grade: C, img_url: img10.jpg
+stud_name: Taylor, course_name: English, teacher: Jef, ects: 20, classroom: 406, grade: B, img_url: img10.jpg
+stud_name: Taylor, course_name: Psychology, teacher: Susan, ects: 20, classroom: 408, grade: D, img_url: img10.jpg
+stud_name: Taylor, course_name: Science, teacher: Kathrin, ects: 20, classroom: 403, grade: F, img_url: img10.jpg
+stud_name: Selena, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img11.jpg
+stud_name: Selena, course_name: English, teacher: Iris, ects: 20, classroom: 402, grade: F, img_url: img11.jpg
+stud_name: Selena, course_name: History, teacher: Martin, ects: 20, classroom: 403, grade: Fx, img_url: img11.jpg
+stud_name: Selena, course_name: Science, teacher: Jef, ects: 20, classroom: 407, grade: C, img_url: img11.jpg
+stud_name: Selena, course_name: Geology, teacher: Tom, ects: 20, classroom: 406, grade: C, img_url: img11.jpg
+stud_name: Brie, course_name: Science, teacher: Jef, ects: 20, classroom: 406, grade: C, img_url: img12.jpg
+stud_name: Brie, course_name: Chemistry, teacher: Isabel, ects: 20, classroom: 408, grade: C, img_url: img12.jpg
+stud_name: Brie, course_name: Art & Design, teacher: Nick, ects: 20, classroom: 405, grade: B, img_url: img12.jpg
+stud_name: Brie, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 401, grade: C, img_url: img12.jpg
+stud_name: Brie, course_name: English, teacher: Tom, ects: 20, classroom: 407, grade: C, img_url: img12.jpg
+stud_name: Taylor, course_name: Science, teacher: Isabel, ects: 20, classroom: 404, grade: C, img_url: img13.jpg
+stud_name: Taylor, course_name: English, teacher: Martin, ects: 20, classroom: 401, grade: D, img_url: img13.jpg
+stud_name: Taylor, course_name: Psychology, teacher: Tom, ects: 20, classroom: 403, grade: E, img_url: img13.jpg
+stud_name: Taylor, course_name: Art & Design, teacher: Jef, ects: 20, classroom: 402, grade: E, img_url: img13.jpg
+stud_name: Taylor, course_name: History, teacher: Susan, ects: 20, classroom: 407, grade: D, img_url: img13.jpg
+stud_name: Natascha, course_name: History, teacher: Martin, ects: 20, classroom: 404, grade: C, img_url: img14.jpg
+stud_name: Natascha, course_name: Psychology, teacher: Susan, ects: 20, classroom: 403, grade: D, img_url: img14.jpg
+stud_name: Natascha, course_name: Art & Design, teacher: Jef, ects: 20, classroom: 402, grade: D, img_url: img14.jpg
+stud_name: Natascha, course_name: English, teacher: Kathrin, ects: 20, classroom: 407, grade: E, img_url: img14.jpg
+stud_name: Natascha, course_name: Mathematics, teacher: Tom, ects: 20, classroom: 401, grade: D, img_url: img14.jpg
+stud_name: Natascha, course_name: Mathematics, teacher: Nick, ects: 20, classroom: 401, grade: C, img_url: img15.jpg
+stud_name: Natascha, course_name: Geology, teacher: Tom, ects: 20, classroom: 402, grade: E, img_url: img15.jpg
+stud_name: Natascha, course_name: English, teacher: Iris, ects: 20, classroom: 406, grade: E, img_url: img15.jpg
+stud_name: Natascha, course_name: Chemistry, teacher: Jef, ects: 20, classroom: 405, grade: B, img_url: img15.jpg
+stud_name: Natascha, course_name: Psychology, teacher: Susan, ects: 20, classroom: 408, grade: F, img_url: img15.jpg
+stud_name: Brie, course_name: History, teacher: Martin, ects: 20, classroom: 406, grade: C, img_url: img16.jpg
+stud_name: Brie, course_name: Art & Design, teacher: Nick, ects: 20, classroom: 403, grade: D, img_url: img16.jpg
+stud_name: Brie, course_name: English, teacher: Iris, ects: 20, classroom: 404, grade: B, img_url: img16.jpg
+stud_name: Brie, course_name: Psychology, teacher: Isabel, ects: 20, classroom: 405, grade: D, img_url: img16.jpg
+stud_name: Brie, course_name: Geology, teacher: Kathrin, ects: 20, classroom: 407, grade: E, img_url: img16.jpg
+stud_name: Sofia, course_name: Geology, teacher: Jef, ects: 20, classroom: 407, grade: B, img_url: img17.jpg
+stud_name: Sofia, course_name: Psychology, teacher: Susan, ects: 20, classroom: 401, grade: C, img_url: img17.jpg
+stud_name: Sofia, course_name: Science, teacher: Tom, ects: 20, classroom: 408, grade: E, img_url: img17.jpg
+stud_name: Sofia, course_name: History, teacher: Nick, ects: 20, classroom: 404, grade: C, img_url: img17.jpg
+stud_name: Sofia, course_name: Chemistry, teacher: Martin, ects: 20, classroom: 403, grade: C, img_url: img17.jpg
+stud_name: Michelle, course_name: Mathematics, teacher: Isabel, ects: 20, classroom: 402, grade: B, img_url: img18.jpg
+stud_name: Michelle, course_name: History, teacher: Nick, ects: 20, classroom: 403, grade: C, img_url: img18.jpg
+stud_name: Michelle, course_name: Science, teacher: Susan, ects: 20, classroom: 406, grade: C, img_url: img18.jpg
+stud_name: Michelle, course_name: Art & Design, teacher: Kathrin, ects: 20, classroom: 407, grade: D, img_url: img18.jpg
+stud_name: Michelle, course_name: Psychology, teacher: Jef, ects: 20, classroom: 405, grade: B, img_url: img18.jpg
+stud_name: Brie, course_name: Chemistry, teacher: Kathrin, ects: 20, classroom: 402, grade: C, img_url: img19.jpg
+stud_name: Brie, course_name: Science, teacher: Susan, ects: 20, classroom: 403, grade: F, img_url: img19.jpg
+stud_name: Brie, course_name: History, teacher: Iris, ects: 20, classroom: 405, grade: B, img_url: img19.jpg
+stud_name: Brie, course_name: English, teacher: Tom, ects: 20, classroom: 406, grade: Fx, img_url: img19.jpg
+stud_name: Brie, course_name: Geology, teacher: Isabel, ects: 20, classroom: 401, grade: B, img_url: img19.jpg
