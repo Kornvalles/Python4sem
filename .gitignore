@@ -1,3 +1,6 @@
 #Ignore list
 .DS_Store
 .vscode
+week_6/geckodriver.log
+week_6/chrome_driver/chromedriver
+week_6/geckodriver/geckodriver
