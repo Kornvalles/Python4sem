@@ -1,8 +1,11 @@
 import bs4
 import requests
+import re
 from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+
+WIN_URL = 'https://www.hltv.org/team/7461/copenhagen-flames#tab-matchesBox'
 
 # Brug web scraping til at finde top 5 hold i verden
 def webscrape():
@@ -39,4 +42,23 @@ def selenium(team):
 
     return world_rankings[0].getText()
 
-print(selenium('Copenhagen Flames'))
+#print(selenium('Copenhagen Flames'))
+
+# Stadig på "Copenhagen Flames" siden. Find ved hjælp af regex hvor mange sejre de har under matches
+def regex(url):
+    r = requests.get(url)
+    r.raise_for_status()
+    soup = bs4.BeautifulSoup(r.text, 'html.parser')
+    elems = soup.select('table > tbody')
+
+    print(elems[1].getText())
+    
+    win_reg = re.compile(r'<div class="team-flex team-1">')
+
+    wins = win_reg.findall(str(elems[1].getText()))
+
+    #print(wins)
+
+    
+
+regex(WIN_URL)
