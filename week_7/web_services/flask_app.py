@@ -4,13 +4,17 @@ import pymysql
 
 # Get connection to database
 def getConnection():
-    cnx = pymysql.connect(user='mikkel', password='Barcelona18!', host='134.122.86.171',
+    cnx = pymysql.connect(user='mikkel', password='Barcelona18!', host='localhost',
                           port=3306, db='demodb', autocommit=True, cursorclass=pymysql.cursors.DictCursor)
     return cnx
 
 
 app = Flask(__name__)
 #app.config['ENV'] = 'development'
+
+@app.route('/', methods=['GET'])
+def printHome():
+    return "<h1>Flask App Demo!</h1>"
 
 @app.route('/flask_app/todo/api/tasks', methods=['GET'])
 def get_tasks():
@@ -30,7 +34,7 @@ def get_task_by_id(task_id):
     try:
         cnx = getConnection()
         cursor = cnx.cursor()
-        query = f"SELECT * FROM Task WHERE id = {task_id}"
+        query = "SELECT * FROM Task WHERE id = {}".format(task_id)
         cursor.execute(query)
         task = cursor.fetchone()
         return task
