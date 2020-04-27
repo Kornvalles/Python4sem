@@ -1,7 +1,7 @@
 from sklearn.feature_extraction.text import CountVectorizer
 
 vectorizer = CountVectorizer()
-moby_dick = open('/Users/mikkel/Downloads/moby_dick.txt',
+moby_dick = open('moby_dick.txt',
                  'rt', encoding='utf-8')
 fit = vectorizer.fit_transform(moby_dick)
 res = fit.todense()
